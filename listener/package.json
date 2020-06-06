@@ -1,0 +1,9 @@
+{
+  "name": "@planty/listener",
+  "version": "0.0.0",
+  "description": "Listen for UDP packets from the monitor application",
+  "main": "index.js",
+  "author": "Half-Shot <halfy@half-shot.uk>",
+  "license": "MIT",
+  "private": false
+}
